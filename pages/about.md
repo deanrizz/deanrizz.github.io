@@ -9,7 +9,7 @@ weight: 3
 
 Hi I am **{{ site.author.name }}** :wave:,<br>
 Security Enthusiast based in Indonesia,
-Currently focused on Offensive Security and DevSecOps,
+Currently focused on **Offensive Security** and **DevSecOps**,
 
 ~ # ./Lets_Connect [LinkedIn](https://www.linkedin.com/in/deanrizki/) / [Twitter](https://twitter.com/dean190898) / [Instagram](https://www.instagram.com/dean190898/)  or_send_me_email me[at]deanrizz[dot]dev
 
