@@ -1,8 +1,9 @@
 ### Site Settings ###
 title               : Dean Rizki Hartawan
 description         : >-
-                      Hello World!
+                      N0 SysT3M 1S S4f3!
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
+home                : /home
 repository          : deanrizz.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : deanrizz/deanrizz.github.io
 open_new_tab        : false                             # Opens external URLs in new tab (works for posts, projects and navbar only)
