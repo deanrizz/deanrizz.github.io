@@ -24,5 +24,5 @@ Currently focused on **Offensive Security** and **DevSecOps**,
 
 <div class="row">
 {% include about/cert.html title="Certification" %}
-**Coming Soon**
 </div>
+**Coming Soon**
