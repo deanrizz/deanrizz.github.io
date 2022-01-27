@@ -19,5 +19,5 @@ Currently focused on **Offensive Security** and **DevSecOps**,
 </div>
 
 <div class="row">
-{% include about/timeline.html %}
+{% include about/timeline.html headtitle=site.data.timeline %}
 </div>
