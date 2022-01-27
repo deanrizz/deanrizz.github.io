@@ -1,6 +1,6 @@
 ### Site Settings ###
 title               : Dean Rizki Hartawan
-description         : N0 SysT3M 1S S4f3!
+description         : "N0 SysT3M 1S S4f3!"
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 home                : /home
 repository          : deanrizz.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
