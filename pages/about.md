@@ -21,3 +21,8 @@ Currently focused on **Offensive Security** and **DevSecOps**,
 <div class="row">
 {% include about/timeline.html headtitle="Experience" %}
 </div>
+
+<div class="row">
+{% include about/cert.html headtitle="Certification" %}
+**Coming Soon**
+</div>
