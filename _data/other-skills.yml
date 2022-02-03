@@ -5,3 +5,7 @@
 - name: Docker
   percentage: 50
   color: success
+
+- name: Cloud
+  percentage: 50
+  color: warning
