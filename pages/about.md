@@ -13,6 +13,7 @@ Currently focused on **Offensive Security** and **DevSecOps**,
 
 ~ # ./Lets_Connect [LinkedIn](https://www.linkedin.com/in/deanrizki/) / [Twitter](https://twitter.com/dean190898) / [Instagram](https://www.instagram.com/dean190898/)  or_send_me_email me[at]deanrizz[dot]dev
 
+<!-- 
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
 {% include about/skills.html title="Other Skills" source=site.data.other-skills %}
@@ -25,4 +26,5 @@ Currently focused on **Offensive Security** and **DevSecOps**,
 <div class="row">
 {% include about/cert.html title="Certification" %}
 </div>
-**Coming Soon**
+**Coming Soon** 
+-->
